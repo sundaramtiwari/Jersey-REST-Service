@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JerseyRESTService
+Bundle-SymbolicName: JerseyRESTService
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: JerseyRESTService.jar,
+ Jars/jersey-bundle-1.8-sources.jar/jersey-bundle-1.8-sources.jar,
+ Jars/junit-4.8.jar/junit-4.8.jar
+Export-Package: com.crunchify.tutorials
